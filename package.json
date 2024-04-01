@@ -1,0 +1,21 @@
+{
+  "name": "react-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alaafat7albab/react-workshop.git",
+  "author": "alaafat7albab <alaa.ismail@btech.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "vite",
+    "build" : "vite build",
+    "preview" : "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.7"
+  }
+}
